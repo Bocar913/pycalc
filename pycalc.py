@@ -12,3 +12,5 @@ elif op == "/":
         print("impossible")
     else :
         print(a/b)
+elif op == "*":
+    print (a*b)
